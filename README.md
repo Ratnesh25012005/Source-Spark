@@ -51,14 +51,19 @@ POST /auth/login
 GET /auth/me
 GET /projects
 GET /projects/:id
+```
 Scripts
 Backend
+```
 npm start
 npm run dev
 npm run seed
+```
 Frontend
+```
 npm run dev
 npm run build
 npm run lint
+```
 npm run preview
 ```
